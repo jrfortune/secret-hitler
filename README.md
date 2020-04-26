@@ -1,6 +1,8 @@
 ### Description
 Dockerized Secret Hitler
+
 GitHub: https://github.com/cozuya/secret-hitler
+
 Game: https://secrethitler.io/
 
 ### Building and running
