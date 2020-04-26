@@ -14,4 +14,4 @@ sudo docker logs -f secret_hitler
 ```
 
 ### Notes
-I didn't look into getting SSL working, so if you are leveraging STS (requiring https), you'll have to skip DNS.
+I didn't look into getting SSL working, so if you are leveraging HSTS, you'll have to skip DNS.
